@@ -1,3 +1,8 @@
+---
+title: Prerequisites
+layout: default
+---
+
 ## Getting Started
 
 Before we jump head first into the amazing world of Chrultrabooks, we need to go over a few things.
