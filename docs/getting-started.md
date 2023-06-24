@@ -44,4 +44,4 @@ When asking for help, **do not use manufacturer's model name** (i.e: HP Chromebo
 
 With that out the way, let's move on to the fun stuff:
 
-## [Flashing Coreboot firmware →](firmware.md) 
+## [Flashing Coreboot firmware →](firmware.html) 
