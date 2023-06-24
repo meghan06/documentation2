@@ -1,6 +1,7 @@
 ---
 title: Getting Started
 layout: default
+nav_order: 4
 ---
 
 # Before we begin, keep in mind the following:
