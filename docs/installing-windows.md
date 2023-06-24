@@ -39,4 +39,4 @@ layout: default
 
 
 
-### [Post Install →](docs/post-install.md) 
+### [Post Install →](post-install.md) 

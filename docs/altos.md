@@ -18,7 +18,7 @@ Cons:
 * Thunderbolt driver is paid (20 USD)
 * AVS and SOF users experience instability at times
 
-### [Installing Windows →](docs/installing-windows.md) 
+### [Installing Windows →](installing-windows.md) 
 
 ¹Some devices such as CELES need workarounds. Additionally, AMD Ryzen devices need several modifications to enable Windows support.
 
@@ -36,7 +36,7 @@ Cons:
 * Outdated audio driver packages on certain distros.
    >**Note**: Anything Ubuntu based will **not** work. Linux Mint, Ubuntu, and ElementaryOS are some examples.
 
-### [Installing Linux →](docs/installing-linux.md) 
+### [Installing Linux →](installing-linux.md) 
 
 
 ----------
@@ -54,7 +54,7 @@ Cons:
 * Limited support
   >**Note**: **Any** Celeron or Pentium CPU is not supported.
 
-### [Installing macOS →](docs/installing-macos.md) 
+### [Installing macOS →](installing-macos.md) 
 
 ¹On Drallion, audio should work OOTB with AppleALC because it uses HDA, rather than the traditional SST.
 
