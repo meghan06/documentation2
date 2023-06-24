@@ -1,6 +1,7 @@
 ---
 title: Installing Windows
 layout: default
+nav_order: 11
 ---
 
 ## Installing Windows
