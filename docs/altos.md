@@ -54,7 +54,7 @@ Cons:
 * Limited support
   >**Note**: **Any** Celeron or Pentium CPU is not supported.
 
-### [Installing macOS →](installing-macos.ht,l) 
+### [Installing macOS →](installing-macos.html) 
 
 ¹On Drallion, audio should work OOTB with AppleALC because it uses HDA, rather than the traditional SST.
 
