@@ -75,4 +75,4 @@ Before we begin, it's important to know whether your Chromebook is even supporte
 (todo)
 
 
-### [Post Install →](docs/post-install.md) 
+### [Post Install →](post-install.md) 
