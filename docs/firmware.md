@@ -10,7 +10,7 @@ layout: default
 To convert your machine from Google's firmware and ChromeOS to Coreboot and AltOS (Linux/Windows/macOS), you will need to first perform the following steps:
 
 1. [Enable developer mode](https://chromium.googlesource.com/chromiumos/docs/+/HEAD/developer_mode.md)
-2. Boot into ChromeOS with battery disconnected (see [below](#Note))
+2. Boot into ChromeOS with battery disconnected (see [below](#note))
 3. Run [MrChromebox's firmware utility script.](https://mrchromebox.tech/#fwscript)
 4. **Do not use RW_LEGACY**. Dual-booting is generally buggy and will cause you issues in a long run. You want to flash full ROM (UEFI) for best experience, Windows will never run on RWL.
 5. Make sure to create firmware backup and **store it in safe place**, reverting to stock without backup is **very difficult**.
