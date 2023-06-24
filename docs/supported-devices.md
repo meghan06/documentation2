@@ -1,6 +1,7 @@
 ---
 title: Supported Devices
 layout: default
+nav_order: 6
 ---
 
 ## Supported Devices and Platforms

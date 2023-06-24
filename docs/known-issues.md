@@ -1,6 +1,7 @@
 ---
 title: Known Issues
 layout: default
+nav_order: 3
 ---
 
 # Known Issues

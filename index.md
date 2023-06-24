@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 <h1><div align="center">Welcome to the Chrultrabook wiki!</div></h1>
