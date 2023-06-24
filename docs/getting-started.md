@@ -1,3 +1,8 @@
+---
+title: Getting Started
+layout: default
+---
+
 # Before we begin, keep in mind the following:
 
 
