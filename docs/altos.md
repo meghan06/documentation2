@@ -1,3 +1,8 @@
+---
+title: AltOS Pros/Cons
+layout: default
+---
+
 ### So you're wondering what OS you can install on your newly flashed chrultrabook. Here's a list of pros/cons of every OS.
 
 ----------
