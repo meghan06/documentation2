@@ -8,12 +8,12 @@ layout: default
 
 ### Supported Chromebooks:
 
-Please refer to [this chart](docs/supported-devices.md) for a full list of supported devices.
+Please refer to [this chart](supported-devices.md) for a full list of supported devices.
 
 -------------
 
 ### Asking for help properly:
-If you are facing a issue, please read the [FAQ](docs/faq.md) first.
+If you are facing a issue, please read the [FAQ](faq.md) first.
 
 When asking for help, **do not use manufacturer's model name** (i.e: HP Chromebook 14a), it doesn't help with identifying the machine. Provide the boardname, otherwise your support request will be ignored.
 
@@ -44,4 +44,4 @@ When asking for help, **do not use manufacturer's model name** (i.e: HP Chromebo
 
 With that out the way, let's move on to the fun stuff:
 
-## [Flashing Coreboot firmware →](docs/firmware.md) 
+## [Flashing Coreboot firmware →](firmware.md) 
