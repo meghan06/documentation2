@@ -1,3 +1,8 @@
+---
+title: Installing Windows
+layout: default
+---
+
 ## Installing Windows
 
 ### Installation:
