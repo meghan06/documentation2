@@ -1,3 +1,8 @@
+---
+title: Installing macOS
+layout: default
+---
+
 ## Installing macOS
 
 
