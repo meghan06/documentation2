@@ -19,4 +19,4 @@ Before we jump head first into the amazing world of Chrultrabooks, we need to go
 
 ------
 
-## [Getting Started →](getting-started.md)
+## [Getting Started →](getting-started.html)
