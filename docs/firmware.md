@@ -26,4 +26,4 @@ To convert your machine from Google's firmware and ChromeOS to Coreboot and AltO
 -------
 
 With that done, let's move onto installing AltOS.
-## [Installing altOS →](docs/altos.md) 
+## [Installing altOS →](altos.md) 
