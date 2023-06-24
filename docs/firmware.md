@@ -1,6 +1,7 @@
 ---
 title: Flashing Firmware
 layout: default
+nav_order: 7
 ---
 
 ## Flashing custom firmware
