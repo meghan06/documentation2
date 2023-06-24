@@ -1,6 +1,7 @@
 ---
 title: Installing Linux
 layout: default
+nav_order: 9
 ---
 
 ## Installing Linux
